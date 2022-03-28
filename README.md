@@ -5,7 +5,7 @@ Hi, I'm Amaro!
 - 📫 Contact me at my email: gustavoamarommiv@gmail.com
 - 😄 Pronouns: he/his
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/amarogusta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amarogusta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarogusta&layout=compact&langs_count=7&theme=dark"/>
