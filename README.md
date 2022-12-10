@@ -1,19 +1,14 @@
 Hi, I'm Amaro!
 
-- 🔭 I’m currently working on my course's final project: Ybyrá
-- 🌱 I’m currently learning Node.js
+- 🔭 I’m deeply interested in NLP and Machine Learning!
 - 📫 Contact me at my email: gustavoamarommiv@gmail.com
-- 😄 Pronouns: he/his
 
 <div align="left">
   <a href="https://github.com/amarogusta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amarogusta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarogusta&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Amaro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Amaro-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Amaro-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Amaro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amaro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Amaro-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
