@@ -6,6 +6,7 @@ Hi, I'm Amaro!
 <div align="left">
   <a href="https://github.com/amarogusta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmaroGusta&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaroGusta&layout=compact&langs_count=4&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Amaro-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
